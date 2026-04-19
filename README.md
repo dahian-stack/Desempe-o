@@ -22,6 +22,10 @@ En esta actividad se implementan eventos en MYSQL para automatizar procesos dent
 
    SHOW EVENTS;
 
+Notas
+- Asegúrese de ejecutar primero el script de la base de datos antes de las funciones y triggers.
+- Verifique que las tablas estén correctamente creadas antes de ejecutar los demás archivos.
+
 # Estructura de módulos implementados
 El sistema MediaPro se organiza en los siguientes módulos:
 
